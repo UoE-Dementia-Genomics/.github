@@ -5,3 +5,7 @@ We are a team dedicated to investigating the genomics of dementia. We perform ge
 
 ## About the GitHub page
 On this page, you will find code relating to our papers. These are separated by publication and each repository contains all code relating to that paper.
+
+# Publications and their repositories
+
+<a href= "https://github.com/UoE-Dementia-Genomics/Meta-analysis-Smith">Smith, R.G., Pishva, E., Shireby, G. et al. A meta-analysis of epigenome-wide association studies in Alzheimer’s disease highlights novel differentially methylated loci across cortex. Nat Commun 12, 3517 (2021). https://doi.org/10.1038/s41467-021-23243-4</a>
