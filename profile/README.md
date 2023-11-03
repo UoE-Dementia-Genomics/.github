@@ -9,7 +9,7 @@ On this page, you will find code relating to our papers. These are separated by 
 ## Publications and their repositories
 
 ### Under Review/In Press
-<a href="https://github.com/UoE-Dementia-Genomics/EMIF_Biomarkers_Methylation">Smith, R.G., Imm, J., Dobricic, V. et al. Blood DNA methylomic signatures associated with 15 CSF biomarkers of Alzheimer’s disease in the EMIF-AD Multimodal Biomarker Discovery study. (Under Review).</a>
+Smith, R.G., Imm, J., Dobricic, V. et al. Blood DNA methylomic signatures associated with 15 CSF biomarkers of Alzheimer’s disease in the EMIF-AD Multimodal Biomarker Discovery study. (Under Review) - <a href="https://github.com/UoE-Dementia-Genomics/EMIF_Biomarkers_Methylation">Code</a>
 
 ### 2021
-<a href= "https://github.com/UoE-Dementia-Genomics/Meta-analysis-Smith">Smith, R.G., Pishva, E., Shireby, G. et al. A meta-analysis of epigenome-wide association studies in Alzheimer’s disease highlights novel differentially methylated loci across cortex. Nat Commun 12, 3517 (2021). https://doi.org/10.1038/s41467-021-23243-4</a>
+<a href= "https://github.com/UoE-Dementia-Genomics/Meta-analysis-Smith">Smith, R.G., Pishva, E., Shireby, G. et al. A meta-analysis of epigenome-wide association studies in Alzheimer’s disease highlights novel differentially methylated loci across cortex. Nat Commun 12, 3517 (2021). https://doi.org/10.1038/s41467-021-23243-4</a> - <a href="https://github.com/UoE-Dementia-Genomics/Meta-analysis-Smith">Code</a>
